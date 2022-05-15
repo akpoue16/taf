@@ -1,3 +1,6 @@
 Chien
 Chat
 Vache
+Crapaud
+Singe
+Elephant
