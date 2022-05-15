@@ -1,4 +1,3 @@
 Chien
 Chat
-Lion
 Vache
